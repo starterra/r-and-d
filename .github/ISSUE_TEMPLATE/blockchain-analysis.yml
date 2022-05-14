@@ -1,0 +1,25 @@
+name: Blockchain Analysis
+description: Report a blockchain analysis
+title: "[Analysis]: "
+labels: ["analysis", "blockchain"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to analyse this blockchain!
+  - type: input
+    id: blockchain-name
+    attributes:
+      label: Blockchain Name
+      description: Please provid a blockchain name which you have analyzed
+      placeholder: Ethereum
+    validations:
+      required: true
+  - type: input
+    id: blockchain-web
+    attributes:
+      label: Web address
+      description: Link to blockchain web address
+      placeholder: https://ethereum.org/en/
+    validations:
+      required: true
