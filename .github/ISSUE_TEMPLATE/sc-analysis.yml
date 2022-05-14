@@ -1,0 +1,18 @@
+name: Blockchain smart contract part of Analysis
+description: Please fill a smart contract part of a blockchain analysis
+title: "[SC]: "
+labels: ["smart-contracts"]
+assignees:
+  - KaliszukTomasz
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Take care of smart contract section.
+  - type: input
+    id: sc-section
+    attributes:
+      label: Link to section
+      description: Please provide a link to section
+    validations:
+      required: true
