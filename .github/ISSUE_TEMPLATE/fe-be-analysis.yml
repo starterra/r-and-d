@@ -1,0 +1,11 @@
+name: Blockchain FE/BE part of Analysis
+description: Please fill a frontend/backend part of a blockchain analysis
+title: "[FE/BE]: "
+labels: ["fe/be"]
+assignees:
+  - Mskalba
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Take care of frontend / backend [section](https://github.com/starterra/r-and-d/blob/main/analysis/_TEMPLATE.md#11--frontend--backend)
