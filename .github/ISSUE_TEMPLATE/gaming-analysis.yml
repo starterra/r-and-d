@@ -1,0 +1,18 @@
+name: Blockchain gaming part of Analysis
+description: Please fill a gaming part of a blockchain analysis
+title: "[GAME]: "
+labels: ["gaming"]
+assignees:
+  - PiotrSobiecki
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Take care of gaming section.
+  - type: input
+    id: game-section
+    attributes:
+      label: Link to section
+      description: Please provide a link to section
+    validations:
+      required: true
