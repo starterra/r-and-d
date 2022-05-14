@@ -11,7 +11,7 @@ body:
     id: blockchain-name
     attributes:
       label: Blockchain Name
-      description: Please provid a blockchain name which you have analyzed
+      description: Please provide a blockchain name which you have analyzed
       placeholder: Ethereum
     validations:
       required: true
