@@ -2,6 +2,8 @@ name: Blockchain Analysis
 description: Report a blockchain analysis
 title: "[Analysis]: "
 labels: ["analysis", "blockchain"]
+assignees:
+  - tkowalczyk
 body:
   - type: markdown
     attributes:
