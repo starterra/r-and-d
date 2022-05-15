@@ -2,8 +2,6 @@ name: Blockchain infrastructure part of Analysis
 description: Please fill a infrastructure part of a blockchain analysis
 title: "[INFRA]: "
 labels: ["infrastructure"]
-assignees:
-  - jchilkie
 body:
   - type: markdown
     attributes:
