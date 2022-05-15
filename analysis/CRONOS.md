@@ -1,4 +1,4 @@
-Name: Avalanch
+Name: Cronos
 ===
 
 # 1. Technology

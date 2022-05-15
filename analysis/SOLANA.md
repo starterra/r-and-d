@@ -1,4 +1,4 @@
-Name: Avalanch
+Name: Solana
 ===
 
 # 1. Technology

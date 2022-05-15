@@ -1,4 +1,4 @@
-Name: Avalanch
+Name: Algorand
 ===
 
 # 1. Technology
