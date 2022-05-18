@@ -1,19 +1,20 @@
 Name: Avalanch
+Ecosystem: https://ecosystem.avax.network/marketplace
 ===
 
 # 1. Technology
 ## 1.1.  Frontend / Backend
-- links to wallets
-	-   [browser](PASTE_LINK_HERE)
-	-   [mobile](PASTE_LINK_HERE)
-	-   [desktop](PASTE_LINK_HERE)
+- links to wallets in ecosystem link^
+	-   browser- MetaMask
+	-   mobile- Metamask + Math wallet
+	-   desktop- Avme? 
 	-   [cli](PASTE_LINK_HERE)
-- framework support - react/vue
-- libraries - js/ts dedicated lib
-- sign and verify
-- fe docs/tutorial/support - quality/up to date
-- REST API - docs
-- hardware wallets support
+- framework support - react/vue- some kind of tutorial: [link](https://medium.com/coinmonks/create-an-avalanche-dapp-with-ethers-metamask-and-react-342d8d22cb30) Avalanche-wallet is build in vue and open-sourced.
+- libraries - js/ts dedicated [lib](https://www.npmjs.com/package/avalanche) and simple web3
+- sign and verify [link](https://docs.avax.network/community/tutorials-contest/red-dev-sig-verify-tutorial/)
+- fe docs/tutorial/support - quality/up to date- web3 is doing most of the work. [avax tutorial react](https://docs.avax.network/community/tutorials-contest/evoting-avalanche-dapp/)
+- REST API - docs [link](https://www.npmjs.com/package/web3)
+- hardware wallets support- metamask
 
 ## 1.2.  Infrastructure
 - node own/public/costs
