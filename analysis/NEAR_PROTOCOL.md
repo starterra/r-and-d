@@ -5,15 +5,15 @@ Name: NEAR Protocol
 ## 1.1.  Frontend / Backend
 - links to wallets
 	-   [browser](https://wallet.near.org/)
-	-   [mobile](PASTE_LINK_HERE)
-	-   [desktop](PASTE_LINK_HERE)
-	-   [cli](PASTE_LINK_HERE)
-- framework support - react/vue
-- libraries - js/ts dedicated lib
-- sign and verify
-- fe docs/tutorial/support - quality/up to date
-- REST API - docs
-- hardware wallets support
+	-   [mobile, extension, ledger](https://mathwallet.org/en-us/)
+	-   No desktop wallet
+	-   [cli](https://docs.near.org/docs/tools/near-cli)
+- framework support - react/vue- some vue support: [vue-near](https://github.com/TrevorJTClarke/vue-near/) [react-near](https://www.npmjs.com/package/react-near)
+- libraries - js/ts dedicated [lib](https://docs.near.org/docs/api/naj-quick-reference) [github](https://github.com/near/near-api-js)
+- sign and verify: [link](https://github.com/near/near-api-js/blob/master/examples/cookbook/utils/verify-signature.js)
+- fe docs/tutorial/support - quality/up to date- vue updated 16 month ago. React- 17 days ago. Api-js last release on december. Issues are without answers.
+- REST API - docs ^ in js api
+- hardware wallets support- **math wallet**
 
 ## 1.2.  Infrastructure
 - node own/public/costs
