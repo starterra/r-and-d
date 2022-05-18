@@ -1,6 +1,6 @@
 Name: NEAR Protocol
 
-PROTOCOLS: [link](https://docs.google.com/spreadsheets/d/1Kw-5oQBnolLnjoQwkz4CRseMwObbWAWXMtYhWEYUNGg/edit#gid=0)
+PROTOCOLS: [spreadsheet](https://docs.google.com/spreadsheets/d/1Kw-5oQBnolLnjoQwkz4CRseMwObbWAWXMtYhWEYUNGg/edit#gid=0) [website](https://awesomenear.com/)
 ===
 
 # 1. Technology
