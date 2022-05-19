@@ -24,17 +24,34 @@ PROTOCOLS: [spreadsheet](https://docs.google.com/spreadsheets/d/1Kw-5oQBnolLnjoQ
 - bots risk - fcfo/mev/
   
 ## 1.3.  Smart Contracts
-- language
+- language 
+  - clean near: rust
+  - aurora: solidity
+  - octopus: rust
 - tools - ci/cd
+  - rust utils
+  - aurora: remix, truffle (evm compatible)
 - upgrades (possibility to upgrades fe. migrations, proxy)
+  - yes
 - txns costs
+  - apx. 0.02usd
 - docs/guides/support
+  - better than terra :D
+  - https://docs.near.org/docs/develop/basics/getting-started
+  - https://doc.aurora.dev/
+  - https://docs.oct.network/
 - open source practice
+  - there are examples how to integrate with, write smart contracts and so on. 
 - audits
+  - not found
 - nfts
+  - implemented
 - oracles
+  - chainlink
 - RNG
+  - in progress
 - multisig
+  - like on terra
 
 ## 1.4. Gaming
 - engine integrations - unreal/unity/js frameworks
