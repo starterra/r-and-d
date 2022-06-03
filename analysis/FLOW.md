@@ -42,7 +42,7 @@ Name: Flow
   + https://chainmonsters.com/
   + https://darkcountry.io/
   + https://enemymetal.com/
-  Basicly native developed are card based games.
+  Basicly native developed are nft`s and card based games.
   + https://www.revvracing.com/ - joined recently flow network
 - partnerships
   + Nothing mention worthy in big game studios category. Main feature of Flow is NBA TopShots
