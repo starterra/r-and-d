@@ -50,7 +50,7 @@ Name: Flow
 # 2. Ecosystem
 ## 2.1.  Social Media / Marketing
 - dev relations
-  + There are office hours on discord. discord.gg/flow
+  + There are office hours on discord and dev support (mainly ledger support) discord.gg/flow
   + devs@flow.com no response after 3 day after enqiury was sent
 
 - dev grants
