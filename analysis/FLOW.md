@@ -67,7 +67,15 @@ Name: Flow
   + https://www.ecdao.org/
 
 - twitter influ - size/active/nationality
+  1) https://twitter.com/roham - founder of flow and dapper labs 88,3 K followers/does not tweet often/Turkish?!
+  2) https://twitter.com/TheFirstMint - 80K/often/Canada
+  3) https://twitter.com/hellodapper - 65K/often/Canada
+  + could not find any major shillers that have many followers. (twitter is not my strong side). Some minor ones:
+  1) https://twitter.com/alxocity/with_replies - followed by flow profile and roham 12,1K/US
+  2) https://twitter.com/HipHopVikingGuy/with_replies - followed by flow profile 10K
+  3) https://twitter.com/un_boxinglife - followed by flow profile and rohan 1K
   
+
 ## 2.2. Economy
 - native assets/tokens/stablecoins - utility
   + Flow is native token of flow blockchain. It is used for all protocol-level fee payments, rewards and staking transactions. https://github.com/onflow/flow-ft
@@ -75,6 +83,9 @@ Name: Flow
   1) FUSD - Flow USD (FUSD) is a stablecoin issued by Prime Trust that is backed 1:1 by the US Dollar.
   2) USDC is a stablecoin that powers NBA Top Shot and will soon become available to the non-custodial Flow ecosystem. It can`t be transported via bridge but is avaliable for trading on blocktoswap.
   3) tUSDT – "teleported" version of ERC-20 USDT.
+  
+  + Flow`s promoted advantages over other blockchains are speed of tx and low energy consumption. Often amount of transactions is rised. 
+   https://twitter.com/flow_blockchain/status/1532070062538260480
 
 - liq/cex/dex/native dex/bridges
   + All major cex suport flow. There is no native dex but blockto.swap was the first and only one for now.
