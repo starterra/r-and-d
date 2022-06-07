@@ -49,7 +49,11 @@ Name: Casper
   
 ## 2.2. Economy
 - native assets/tokens/stablecoins - utility
+	+ CSPR is the native token for the Casper network. Network participants use it to pay computation fees and it rewards validators who process network transactions.
 - liq/cex/dex/native dex/bridges
+	+ cex - huobi, crypto.com, ascendex
+	+ dex - https://www.friendly.market/
+	+ bridge - https://bridge.dotoracle.network/
 - nfts marketplaces/projects
 - funding/release schedule
   + https://docs.casperstats.io/docs/token-metrics-and-distribution
