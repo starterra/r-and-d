@@ -52,7 +52,14 @@ Name: Casper
 - liq/cex/dex/native dex/bridges
 - nfts marketplaces/projects
 - funding/release schedule
+  + https://docs.casperstats.io/docs/token-metrics-and-distribution
+  + 75 mln USD raised across 3 years.
+  + ![image](https://user-images.githubusercontent.com/72046089/172386512-cabc3a78-5c49-4e72-9caf-c5e621111ca8.png)
+  + ![image](https://user-images.githubusercontent.com/72046089/172386601-cd939ef6-a199-4fb6-909e-d6b6cf64e5ef.png)
+  + Mainnet was launched on 31.03.2021 (https://blog.casperlabs.io/casper-mainnet-is-live/)
 - launchpad presence
++ https://casper-pad.io/ - active
++ https://www.casperstation.com/ - not active
 - on-ramp
 
 ## 2.3. Team / Founders
