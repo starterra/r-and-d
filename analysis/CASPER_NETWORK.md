@@ -55,6 +55,7 @@ Name: Casper
 	+ dex - https://www.friendly.market/
 	+ bridge - https://bridge.dotoracle.network/
 - nfts marketplaces/projects
+	+ no usable ATM
 - funding/release schedule
   + https://docs.casperstats.io/docs/token-metrics-and-distribution
   + 75 mln USD raised across 3 years.
