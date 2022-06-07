@@ -58,8 +58,8 @@ Name: Casper
   + ![image](https://user-images.githubusercontent.com/72046089/172386601-cd939ef6-a199-4fb6-909e-d6b6cf64e5ef.png)
   + Mainnet was launched on 31.03.2021 (https://blog.casperlabs.io/casper-mainnet-is-live/)
 - launchpad presence
-+ https://casper-pad.io/ - active
-+ https://www.casperstation.com/ - not active
+	+ https://casper-pad.io/ - active
+	+ https://www.casperstation.com/ - not active
 - on-ramp
 
 ## 2.3. Team / Founders
