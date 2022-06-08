@@ -48,12 +48,15 @@ Name: Casper
 ## 2.1.  Social Media / Marketing
 - dev relations
 	+ discord has channel "ask dev" https://discord.com/invite/Q38s3Vh
+	+ https://casperlabs.atlassian.net/servicedesk/customer/user/login?destination=portals
 - dev grants
 	+ https://www.devxdao.com/grants/ meeting every friday 7 pm UTC 
 - dev community
 	+ https://github.com/casper-network/docs
 	+ discord
 	+ https://t.me/devxdao/
+	+ https://forums.casperlabs.io/ - does not look often visited
+
 - twitter influ - size/active/nationality
 	+ https://twitter.com/Casper_Network - official twitter
 	+ https://twitter.com/Casper_Hodlers - community driven, <4K
@@ -84,4 +87,5 @@ Name: Casper
 ## 2.3. Team / Founders
 - experience
 - vacancies
+	+ https://casper.network/network/careers , 2 jobs offers
 - communication
