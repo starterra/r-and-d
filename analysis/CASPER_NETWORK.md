@@ -4,7 +4,7 @@ Name: Casper
 # 1. Technology
 ## 1.1.  Frontend / Backend
 - links to wallets
-	-   [browser](PASTE_LINK_HERE)
+	-   [browser](PASTE_LINK_HERE) https://chrome.google.com/webstore/detail/casper-signer/djhndpllfiibmcdbnmaaahkhchcoijce/related
 	-   [mobile](PASTE_LINK_HERE)
 	-   [desktop](PASTE_LINK_HERE)
 	-   [cli](PASTE_LINK_HERE)
@@ -36,20 +36,27 @@ Name: Casper
 
 ## 1.4. Gaming
 - engine integrations - unreal/unity/js frameworks
+	+ https://docs.casperlabs.io/sdk/
 - guilds
+	+ none
 - done/planned productions
+	+ nothing mention worthy
 - partnerships
+	+ none
 
 # 2. Ecosystem
 ## 2.1.  Social Media / Marketing
 - dev relations
+	+ discord has channel "ask dev"
 - dev grants
+	+ https://www.devxdao.com/grants/ every friday 7 pm UTC meeting
 - dev community
 - twitter influ - size/active/nationality
   
 ## 2.2. Economy
 - native assets/tokens/stablecoins - utility
 	+ CSPR is the native token for the Casper network. Network participants use it to pay computation fees and it rewards validators who process network transactions.
+	+ very few projects working, barly none possible for trading, list avaliable at https://www.casperblockchain.io/
 - liq/cex/dex/native dex/bridges
 	+ cex - huobi, crypto.com, ascendex
 	+ dex - https://www.friendly.market/
