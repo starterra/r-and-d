@@ -47,18 +47,24 @@ Name: Casper
 # 2. Ecosystem
 ## 2.1.  Social Media / Marketing
 - dev relations
-	+ discord has channel "ask dev"
+	+ discord has channel "ask dev" https://discord.com/invite/Q38s3Vh
 - dev grants
 	+ https://www.devxdao.com/grants/ every friday 7 pm UTC meeting
 - dev community
+	+ https://github.com/casper-network/docs
+	+ discord
+	+ https://t.me/devxdao/
 - twitter influ - size/active/nationality
+	+ https://twitter.com/Casper_Network - official twitter
+	+ https://twitter.com/Casper_Hodlers - community driven, <4K
   
 ## 2.2. Economy
 - native assets/tokens/stablecoins - utility
 	+ CSPR is the native token for the Casper network. Network participants use it to pay computation fees and it rewards validators who process network transactions.
 	+ very few projects working, barly none possible for trading, list avaliable at https://www.casperblockchain.io/
+	+ no native stablecoin. Main liq (very low ATM 08.06.2022) is dUSDC which is USDC derivative (not leverage ;).
 - liq/cex/dex/native dex/bridges
-	+ cex - huobi, crypto.com, ascendex
+	+ cex - huobi, crypto.com, ascendex, coinlist
 	+ dex - https://www.friendly.market/
 	+ bridge - https://bridge.dotoracle.network/
 - nfts marketplaces/projects
