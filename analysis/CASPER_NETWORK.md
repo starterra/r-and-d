@@ -56,6 +56,7 @@ Name: Casper
 	+ discord
 	+ https://t.me/devxdao/
 	+ https://forums.casperlabs.io/ - does not look often visited
+	+ https://www.youtube.com/c/CasperNetwork/videos
 
 - twitter influ - size/active/nationality
 	+ https://twitter.com/Casper_Network - official twitter
@@ -86,6 +87,9 @@ Name: Casper
 
 ## 2.3. Team / Founders
 - experience
+	+ https://casperlabs.io/company/meet-our-team/ - some linkedin links are inactive
+	+ https://www.linkedin.com/company/casperlabs/
 - vacancies
 	+ https://casper.network/network/careers , 2 jobs offers
 - communication
+	
