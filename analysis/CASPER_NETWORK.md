@@ -40,7 +40,7 @@ Name: Casper
 - guilds
 	+ none
 - done/planned productions
-	+ nothing mention worthy in gaming
+	+ nothing mention worthy in gaming itself
 	+ https://store.robotcache.com/ according to info from discord RC uses blockchain to keep track of who owns which copy of a game so that users can resell their games on RC
 - partnerships
 	+ none
