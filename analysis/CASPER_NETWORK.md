@@ -49,7 +49,7 @@ Name: Casper
 - dev relations
 	+ discord has channel "ask dev" https://discord.com/invite/Q38s3Vh
 - dev grants
-	+ https://www.devxdao.com/grants/ every friday 7 pm UTC meeting
+	+ https://www.devxdao.com/grants/ meeting every friday 7 pm UTC 
 - dev community
 	+ https://github.com/casper-network/docs
 	+ discord
@@ -68,7 +68,7 @@ Name: Casper
 	+ dex - https://www.friendly.market/
 	+ bridge - https://bridge.dotoracle.network/
 - nfts marketplaces/projects
-	+ no usable ATM
+	+ no usable ATM (very low ATM 08.06.2022)
 - funding/release schedule
   + https://docs.casperstats.io/docs/token-metrics-and-distribution
   + 75 mln USD raised across 3 years.
@@ -79,6 +79,7 @@ Name: Casper
 	+ https://casper-pad.io/ - active
 	+ https://www.casperstation.com/ - not active
 - on-ramp
+	+ through cex
 
 ## 2.3. Team / Founders
 - experience
