@@ -72,7 +72,9 @@ Name: Casper
 	+ dex - https://www.friendly.market/
 	+ bridge - https://bridge.dotoracle.network/
 - nfts marketplaces/projects
-	+ no usable ATM (very low ATM 08.06.2022)
+	+ not usable in practice ATM
+	+ https://metacask.com/about/ - whiskey collection
+	+ https://platform.wise.art/ - not possible to pay via wallet
 - funding/release schedule
   + https://docs.casperstats.io/docs/token-metrics-and-distribution
   + 75 mln USD raised across 3 years.
