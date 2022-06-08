@@ -113,6 +113,8 @@ Starly is a launchpad and marketplace for gamified NFT collections. Aimed to mak
 Blockto is main swap cex (looks like fork of UNI) which can be logged using their wallet which is email based. 1 project launched until 30.05.2022 – Starly.
 - on-ramp
   + FUSD and USDC with ramp.network.
+  + https://www.moonpay.com/ - flow token
+  + https://banxa.com/ - flow token
 ## 2.3. Team / Founders
 - experience
    + Founder is Roham Gharegozlou. He started Dapper Labs and Flow itself. He was also involved in CryptoKitties on which succes Dapper Labs was founded. At beginining team was described as below:
