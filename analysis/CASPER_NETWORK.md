@@ -68,6 +68,8 @@ Name: Casper
 	+ CSPR is the native token for the Casper network. Network participants use it to pay computation fees and it rewards validators who process network transactions.
 	+ very few projects working, barly none possible for trading, list avaliable at https://www.casperblockchain.io/
 	+ no native stablecoin. Main liq (very low ATM 08.06.2022) is dUSDC which is USDC derivative (not leverage ;).
+	+ update from yesyterday as i finished https://twitter.com/Casper_Network/status/1534582126443646978 - team will add some utilities for further platform developments (CasperPad Launchpad, The Swappery, Casper NFT Market and Casper Signer Tutorial.)
+- funding/release schedule
 - liq/cex/dex/native dex/bridges
 	+ cex - huobi, crypto.com, ascendex, coinlist
 	+ dex - https://www.friendly.market/
@@ -76,7 +78,7 @@ Name: Casper
 	+ not usable in practice ATM
 	+ https://metacask.com/about/ - whiskey collection
 	+ https://platform.wise.art/ - not possible to pay via wallet
-- funding/release schedule
+	
   + https://docs.casperstats.io/docs/token-metrics-and-distribution
   + 75 mln USD raised across 3 years.
   + ![image](https://user-images.githubusercontent.com/72046089/172386512-cabc3a78-5c49-4e72-9caf-c5e621111ca8.png)
