@@ -82,7 +82,8 @@ Name: Flow
   + Stable coins:
   1) FUSD - Flow USD (FUSD) is a stablecoin issued by Prime Trust that is backed 1:1 by the US Dollar.
   2) USDC is a stablecoin that powers NBA Top Shot and will soon become available to the non-custodial Flow ecosystem. It can`t be transported via bridge but is avaliable for trading on blocktoswap.
-  3) tUSDT – "teleported" version of ERC-20 USDT.
+  https://flowscan.org/contract/A.b19436aae4d94622.FiatToken
+  4) tUSDT – "teleported" version of ERC-20 USDT.
   
   + Flow`s promoted advantages over other blockchains are speed of tx and low energy consumption. Often amount of transactions is rised. 
    https://twitter.com/flow_blockchain/status/1532070062538260480
@@ -90,6 +91,8 @@ Name: Flow
 - liq/cex/dex/native dex/bridges
   + All major cex suport flow. There is no native dex but blockto.swap was the first and only one for now.
   + It has bridge for most of traded tokens (few) https://swap.blocto.app/#/teleport
+  + https://app.increment.fi/liquidity - swap and lending with 1 mln seed round from "system backers"
+  + https://cbridge.celer.network/#/transfer
 
 - nfts marketplaces/projects
 
